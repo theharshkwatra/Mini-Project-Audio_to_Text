@@ -1,7 +1,7 @@
 # Mini-Project-Audio_to_Text
 
-Speechrecognition is the engine developed by Google.
-Pydub is used to preprocess the audio file we are using.  
+SpeechRecognition is the engine developed by Google.
+pydub is used to preprocess the audio file we are using.  
 
 Converting mp3 file to wav format because the installed packages are compatible with that format.
 
